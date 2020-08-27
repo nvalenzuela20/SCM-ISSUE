@@ -11,7 +11,7 @@
     <scheduleEnabled>true</scheduleEnabled>
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>ls -l</exec>
+        <exec>ls </exec>
       </command>
     </sequence>
     <uuid>0ae53eda-e28d-4ffa-b879-3048ee2b60a0</uuid>
