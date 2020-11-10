@@ -12,7 +12,7 @@
     <schedules />
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>ls -l</exec>
+        <exec>ls</exec>
       </command>
     </sequence>
     <uuid>72943055-9a92-4a85-96a4-08a0c7d4fad8</uuid>
